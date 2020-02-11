@@ -15,6 +15,6 @@ After that GameObject called [Grass Manager](/GrassManager.md) should appear in 
 #### Second method: 
 > Create new empty *GameObject*, than click *AddComponent* button and select 
 **Grass Physics > GrassManager**.
-![GrassManager component](_media/addGrassManagerCut.PNG)
+![GrassManager component](_media/addGrassManagerCut.png)
 
 #### Either way you should end up with GameObject that have [ Grass Manager](/GrassManager.md) component.
