@@ -12,7 +12,9 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      'cache-control': 'no-cache',
+      requestHeaders: {
+          'cache-control': 'no-cache'
+      },
       name: '',
       repo: '',
 	  loadSidebar: true,
