@@ -12,5 +12,5 @@ than you’re ready to implement GrassPhysics asset! Go to the next section
 your scene and make sure to **uncheck Billboard** option in *Add Grass Texture* selection window. 
 Than paint your grass on terrain.
 
-![Make sure to uncheck Billboard option in your grass texture.](_media/billboard.png)
+![Make sure to uncheck Billboard option in your grass texture.](_media/billboard.PNG)
 <br> Make sure to uncheck Billboard option in your grass texture.
