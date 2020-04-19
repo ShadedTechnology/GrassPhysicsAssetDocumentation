@@ -1,9 +1,10 @@
 # Preparing grass for physics asset
 
-### If  you  have  already  Unity  buit-in  grass  in  yourscene
+### If  you  have  already  Unity  buit-in  grass  in  your scene
 
-> If you have implemented Unity built-in non-billboardgrass in your scene 
-than you’re ready to implement GrassPhysics asset! Go to the next section 
+> If you have implemented Unity built-in non-billboard grass in your scene 
+than you’re ready to implement GrassPhysics asset! <br>
+Go to the next section 
 [Setting up grass physics asset](/SettingUp.md).
 
 ### If you don't have grass in your scene

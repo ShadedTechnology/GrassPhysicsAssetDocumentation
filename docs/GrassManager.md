@@ -1,7 +1,8 @@
 # Grass Manager
 
 > *GrassManager* component lets you manage grass material and grass physics 
-settings in your scene. Make sure to have only one *GrassManager* component in your scene.
+settings in your scene. <br>
+Make sure to have only one *GrassManager* component in your scene.
 
 ![GrassManager component](_media/grassManagerPNG.PNG)
 
