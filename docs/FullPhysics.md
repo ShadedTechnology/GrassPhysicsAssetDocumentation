@@ -1,4 +1,27 @@
-# Grass Physics Area
+# Full Physics Mode
+
+![Full Mode](_media/fullMode.PNG)
+
+> *Full Physics Mode* is the most complex one from the three of physics modes. It simulates vertical grass bending caused by every mesh that's inside [Physics Area](GrassPhysicsArea.md) (you can select which layer of meshes you want to ignore, more will be explained in [Physics Area](GrassPhysicsArea.md) section).
+
+> When you select *Full Physics Mode* in *GrassManager* component, you should see *Full Physics* component added to your GameObject like shown below.
+
+![Full Physics Component](_media/fullPhysicsComponent.PNG)
+
+> *GrassFullPhysics* component has following fields:
+> - Enlargement - how much should enlarge mesh's field of impact on grass.
+
+![Enlargement showcase](_media/FullPhysicsEnlargement.gif)
+
+> - Grass Depth Offset - offset of mesh's impact on grass in Y axis.
+
+![Grass Depth Offset showcase](_media/FullPhysicsYImpactOffset.gif)
+
+> - [Physics Area](GrassPhysicsArea.md) - component with area where grass is effected by physics.
+
+If you don't have GameObject with [Physics Area](GrassPhysicsArea.md) component created yet, you can click on *"Create grass physics area"* button below and it will automatically create it for you. Than set up parameters in [Physics Area](GrassPhysicsArea.md) component.
+
+## Grass Physics Area
 
 > To simulate grass physics in "full physics" mode you need *GrassPhysicsArea* component. It represents the area in which grass physics is simulated. <br>
 You can set parameters of this area like its size, whether the area should follow the player or if grass deformation should be lasting. <br>
