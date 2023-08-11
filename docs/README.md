@@ -34,7 +34,7 @@ onmouseout="this.getElementsByTagName('span')[0].style.backgroundColor='#42b983'
 ![FullPhysicsDemo](_media/FullPhysicsDemo2.gif)
 
 ### Contact:
-[<img padding="10" width="120px" height="120px" alt="ShadedTechnology Asset Store" src="_media/Unity_3D.png">](https://assetstore.unity.com/publishers/38093?preview=1)
+[<img padding="10" width="120px" height="120px" alt="ShadedTechnology Asset Store" src="_media/Unity_3D.png">](https://assetstore.unity.com/publishers/38093)
 [<img width="120px" height="120px" alt="ShadedTechnology YT chanell" src="_media/youtube_red.png">](https://www.youtube.com/channel/UCGxEoRhV4B8HHOQzpQ37SHA/featured)
 [<img width="120px" height="120px" alt="ShadedTechnology GitHub" src="_media/GitHub_Icon.png">](https://github.com/ShadedTechnology)
 [<img width="120px" height="120px" alt="ShadedTechnology e-mail" src="_media/gmail_icon.png">](mailto:shaded.technology@gmail.com)
